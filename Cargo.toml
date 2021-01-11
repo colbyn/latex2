@@ -1,0 +1,9 @@
+[package]
+name = "latex2"
+version = "0.1.0"
+authors = ["Colbyn Wadman <hello@colbyn.com>"]
+edition = "2018"
+
+[dependencies]
+nom = "6.0.1"
+
